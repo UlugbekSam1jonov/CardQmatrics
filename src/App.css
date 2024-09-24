@@ -1,0 +1,12 @@
+.app {
+    background-color: #f7fafc; /* Yengil kulrang fon */
+    min-height: 100vh;
+    padding: 32px;
+    text-align: center;
+}
+
+.app-title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
